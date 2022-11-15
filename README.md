@@ -1,4 +1,4 @@
-# 👋 Présentation du Homelab partie privée (Work in Progress) 👋
+# 👋 Présentation du Homelab partie publique (Work in Progress) 👋
 
 *Update : 15/11/2022*
 
