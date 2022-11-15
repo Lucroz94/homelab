@@ -1,0 +1,5 @@
+# Ignore all files inside the specific folder, everywhere
+# Scope is all repo folders.
+**/.vagrant/
+**/.terraform/
+**/.terraform.lock.hcl/
