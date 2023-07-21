@@ -12,8 +12,9 @@ Ce repository est fait pour lister les différents composants de mon homelab ain
 
 **Mémoire : Dual DDR4 SODIMM 32Gb total 64GB**
 
-**Stockage :  1 x SSD (2280 M.2 SATA/PCIe),512GB**
-**Stockage :  1 x SSD (2.5" SATA/PCIE),2TB**
+**Stockage primaire :  1 x SSD (2280 M.2 SATA/PCIe),512GB**
+
+**Stockage secondaire :  1 x SSD (2.5" SATA/PCIE),2TB**
 
 
 **OS : Proxmox VE 8.0.3**
