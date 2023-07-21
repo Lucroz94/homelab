@@ -1,4 +1,4 @@
-# 👋 Présentation du Homelab partie privée 👋
+# 👋 Présentation de mon Homelab 👋
 
 *Update : 22/07/2023*
 
@@ -16,7 +16,6 @@ Ce repository est fait pour lister les différents composants de mon homelab ain
 
 **Stockage secondaire :  1 x SSD (2.5" SATA/PCIE),2TB**
 
-
 **OS : Proxmox VE 8.0.3**
 
 **Bluetooth : Bluetooth® v5.2**
@@ -25,23 +24,16 @@ Ce repository est fait pour lister les différents composants de mon homelab ain
 
 **WiFi :  Intel® Wi-Fi 6, AX201 (CNVI)**
 
-
-## ⚡️ Modules
-
-**blabla :** 
-
-**blabla :** 
-
-**blabla :** 
-
-**blabla :** 
+## ⚡️ Applications installées
 
 ## 🔎 Ce qui sera disponible ici 🔎
 
 Tout mes scripts de gestion de mon homelab.
-Tout mes projets.
-Tout mes tests.
+Tout mes fichiers Terraform de provisionning.
+Tout mes déploiements YAML Kubernetes et Charts Helm.
 Tout mes fichiers de config.
+Tout mes playbooks Ansible.
+Et bien d'autres !
 
 ## 📇 Contact 📇
 
