@@ -1,8 +1,8 @@
-# 👋 Présentation du Homelab partie publique (Work in Progress) 👋
+# 👋 Présentation du Homelab partie privée 👋
 
-*Update : 15/11/2022*
+*Update : 22/07/2023*
 
-Ce repository est fait pour lister les différents composants de mon homelab ainsi que de stocker mes différents scripts et projets
+Ce repository est fait pour lister les différents composants de mon homelab ainsi que de stocker mes différents scripts et projets anonymisé.
 
 ## :wrench: Petite présentation hardware :wrench:
 
@@ -10,11 +10,13 @@ Ce repository est fait pour lister les différents composants de mon homelab ain
 
 **iGPU (Integrated Graphics) :    Intel® Iris® Xe**
 
-**Mémoire : Single DDR4 SODIMM 16Gb (bientôt upgrade à 32Gb au total)**
+**Mémoire : Dual DDR4 SODIMM 32Gb total 64GB**
 
 **Stockage :  1 x SSD (2280 M.2 SATA/PCIe),512GB**
+**Stockage :  1 x SSD (2.5" SATA/PCIE),2TB**
 
-**OS : Proxmox VE 7.2-7**
+
+**OS : Proxmox VE 8.0.3**
 
 **Bluetooth : Bluetooth® v5.2**
 
@@ -35,10 +37,10 @@ Ce repository est fait pour lister les différents composants de mon homelab ain
 
 ## 🔎 Ce qui sera disponible ici 🔎
 
-Tout mes scripts de gestion de mon homelab
-Tout mes projets
-Tout mes tests
-Tout mes fichiers de config
+Tout mes scripts de gestion de mon homelab.
+Tout mes projets.
+Tout mes tests.
+Tout mes fichiers de config.
 
 ## 📇 Contact 📇
 
